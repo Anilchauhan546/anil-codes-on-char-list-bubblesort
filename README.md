@@ -1,6 +1,6 @@
-# anil-codes-on-char-list-bubblesort
+# Chauhan Anil-codes-on-char- dict unpacking -bubblesort
 
-#printing each character in a list
+**#printing each character in a list**
 
 lst=['Anil ','sunil ','sri ram']
 for char in lst:
@@ -8,7 +8,7 @@ for char in lst:
     for c in char:
         print(c)
 
-# Unpacking dictionary using while in python
+**# Unpacking dictionary using while in python**
 
 data={'name':'Anil','role':'Data Engineer','Firm':'5DataINC','experience':'3 Months'}
 
@@ -29,7 +29,7 @@ while i<len(di_to_list):
     print(key,"=",value)
     i+=1
 
-# bubble sort on a list
+**# bubble sort on a list**
 
 
 list=['Google','Capgemini','Cognizant','Accenture','Amadeus','DeltaX']
