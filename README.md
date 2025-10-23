@@ -19,7 +19,7 @@ while i<len(dil):
    print(key,"=",value)
    i+=1
 
-   dictionary={'name':'Anil','age':22,'firm':'5DataINC'}
+dictionary={'name':'Anil','age':22,'firm':'5DataINC'}
 
 di_to_list=list(dictionary.items())
 
